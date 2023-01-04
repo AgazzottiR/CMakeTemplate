@@ -1,0 +1,34 @@
+{
+ "options": [
+  [
+   "catch2:console_width",
+   "80"
+  ],
+  [
+   "catch2:default_reporter",
+   "None"
+  ],
+  [
+   "catch2:fPIC",
+   "True"
+  ],
+  [
+   "catch2:shared",
+   "False"
+  ],
+  [
+   "catch2:with_prefix",
+   "False"
+  ],
+  [
+   "cxxopts:unicode",
+   "False"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": null,
+  "channel": null
+ }
+}
